@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  ordinal: 1
+  category_id: 1
+  hot: false
+  featured: false
+
+two:
+  name: MyString
+  description: MyText
+  ordinal: 1
+  category_id: 1
+  hot: false
+  featured: false
